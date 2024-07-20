@@ -1,0 +1,18 @@
+
+Redux 
+-----
+
+A centralized state management library
+
+
+if you want to share datas through different components normally , you have to do multiple prop sharing and state lifting methods ->
+its called Coupling . To reduce Coupling by using a global storage data
+
+
+
+-> redux toolkit  -> Search 
+
+(install)
+----------
+npm install @reduxjs/toolkit
+npm install react-redux
